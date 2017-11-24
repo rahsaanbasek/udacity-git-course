@@ -1,2 +1,2 @@
 
-Learning Version Control Git - Udacity course
+Version Control Git - Udacity course
